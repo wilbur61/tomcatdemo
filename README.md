@@ -1,2 +1,3 @@
 # tomcatdemo
-tomcatdemo This is replacement for Intro to Servlet on intellij
+
+#  GLAB - 309.1.2B - Creating Servlets  with the  IntelliJ Ultimate
